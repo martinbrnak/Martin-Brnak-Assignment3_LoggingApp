@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Martin Brnak - Assignment3_LoggingApp</string>
+    <string name="create">onCreate() called</string>
+    <string name="start">onStart() called</string>
+    <string name="resume">onResume() called</string>
+    <string name="pause">onPause() called</string>
+    <string name="stop">onStop() called</string>
+    <string name="destroy">onDestroy() called</string>
+    <string name="buttonHello">CLICK ME TO SAY HELLO</string>
+    <string name="hello">Hello</string>
+</resources>
